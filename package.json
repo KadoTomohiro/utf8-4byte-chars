@@ -1,0 +1,15 @@
+{
+  "name": "@kadotomohiro/utf8-4byte-chars",
+  "version": "1.0.0",
+  "description": "list of utf8 4byte character code",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utf8",
+    "4byte"
+  ],
+  "author": "KadoTomohiro",
+  "license": "MIT"
+}
